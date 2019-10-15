@@ -1,0 +1,38 @@
+== Reporte de entregas ==
+(0,0) W
+(0,0) W
+(0,0) W
+== Reporte de entregas ==
+(0,0) W
+(0,0) W
+(0,0) W
+== Reporte de entregas ==
+(0,0) W
+== Reporte de entregas ==
+(0,0) W
+(0,0) W
+(0,0) W
+== Reporte de entregas ==
+(0,0) W
+(0,0) W
+(0,0) W
+== Reporte de entregas ==
+(0,0) W
+(0,0) W
+(0,0) W
+== Reporte de entregas ==
+(0,0) W
+(0,0) W
+(0,0) W
+== Reporte de entregas ==
+(0,0) W
+(0,0) W
+(0,0) W
+== Reporte de entregas ==
+(0,0) W
+(0,0) W
+(0,0) W
+== Reporte de entregas ==
+(-2,4) N
+(-1,3) S
+(0,0) W
